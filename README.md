@@ -1,0 +1,2 @@
+# Django_weather_project_practice
+# Django_weather_project_practice
