@@ -1,2 +1,2 @@
-# Django_weather_project_practice
-# Django_weather_project_practice
+Project Video Youtube Link:
+https://youtu.be/X-NYiOGl17I
